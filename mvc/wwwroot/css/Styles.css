@@ -1,0 +1,13 @@
+
+body{
+    width: 100%;
+    background-attachment: fixed;
+    position: relative;
+    padding-bottom: 100px;
+    min-height: 100vh;
+}
+
+.btn:hover{
+    color:rgb(138, 134, 134);
+    transition: 4ms;
+}
